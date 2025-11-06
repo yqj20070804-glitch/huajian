@@ -1,1 +1,1 @@
-该程序会执行60s后自动结束
+This program will end in 1 minutes,and you can change the contents in it,and send to any one you want to give he or she a surprise.
